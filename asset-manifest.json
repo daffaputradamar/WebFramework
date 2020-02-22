@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/halo-react/static/css/main.3728e709.chunk.css",
+    "main.js": "/halo-react/static/js/main.1ca0de69.chunk.js",
+    "main.js.map": "/halo-react/static/js/main.1ca0de69.chunk.js.map",
+    "runtime-main.js": "/halo-react/static/js/runtime-main.5963504d.js",
+    "runtime-main.js.map": "/halo-react/static/js/runtime-main.5963504d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/halo-react/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.dff56244.chunk.js": "/halo-react/static/js/2.dff56244.chunk.js",
+    "static/js/2.dff56244.chunk.js.map": "/halo-react/static/js/2.dff56244.chunk.js.map",
+    "index.html": "/halo-react/index.html",
+    "precache-manifest.3613518532f5d01b871e832f5bb16244.js": "/halo-react/precache-manifest.3613518532f5d01b871e832f5bb16244.js",
+    "service-worker.js": "/halo-react/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/halo-react/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.3728e709.chunk.css.map": "/halo-react/static/css/main.3728e709.chunk.css.map",
+    "static/js/2.dff56244.chunk.js.LICENSE.txt": "/halo-react/static/js/2.dff56244.chunk.js.LICENSE.txt",
+    "static/media/foto.jpg": "/halo-react/static/media/foto.66834398.jpg",
+    "static/media/laundrypintar.png": "/halo-react/static/media/laundrypintar.aa0ac4a9.png",
+    "static/media/mentorkoding.png": "/halo-react/static/media/mentorkoding.ec43d5ff.png",
+    "static/media/rewangkerjo.png": "/halo-react/static/media/rewangkerjo.838c69a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5963504d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.dff56244.chunk.js",
+    "static/css/main.3728e709.chunk.css",
+    "static/js/main.1ca0de69.chunk.js"
+  ]
+}
