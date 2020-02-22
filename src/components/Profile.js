@@ -15,7 +15,7 @@ import About from "./About";
 import Portofolio from "./Portofolio";
 
 function Profile({ biodata }) {
-  const [activeTab, setActiveTab] = useState("2");
+  const [activeTab, setActiveTab] = useState("1");
   const toggle = tab => {
     if (activeTab !== tab) setActiveTab(tab);
   };
