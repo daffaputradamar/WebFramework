@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/halo-react/static/css/main.3728e709.chunk.css",
-    "main.js": "/halo-react/static/js/main.1ca0de69.chunk.js",
-    "main.js.map": "/halo-react/static/js/main.1ca0de69.chunk.js.map",
-    "runtime-main.js": "/halo-react/static/js/runtime-main.5963504d.js",
-    "runtime-main.js.map": "/halo-react/static/js/runtime-main.5963504d.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/halo-react/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.dff56244.chunk.js": "/halo-react/static/js/2.dff56244.chunk.js",
-    "static/js/2.dff56244.chunk.js.map": "/halo-react/static/js/2.dff56244.chunk.js.map",
-    "index.html": "/halo-react/index.html",
-    "precache-manifest.3613518532f5d01b871e832f5bb16244.js": "/halo-react/precache-manifest.3613518532f5d01b871e832f5bb16244.js",
-    "service-worker.js": "/halo-react/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/halo-react/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.3728e709.chunk.css.map": "/halo-react/static/css/main.3728e709.chunk.css.map",
-    "static/js/2.dff56244.chunk.js.LICENSE.txt": "/halo-react/static/js/2.dff56244.chunk.js.LICENSE.txt",
-    "static/media/foto.jpg": "/halo-react/static/media/foto.66834398.jpg",
-    "static/media/laundrypintar.png": "/halo-react/static/media/laundrypintar.aa0ac4a9.png",
-    "static/media/mentorkoding.png": "/halo-react/static/media/mentorkoding.ec43d5ff.png",
-    "static/media/rewangkerjo.png": "/halo-react/static/media/rewangkerjo.838c69a8.png"
+    "main.css": "/WebFramework/static/css/main.3728e709.chunk.css",
+    "main.js": "/WebFramework/static/js/main.bdd7d143.chunk.js",
+    "main.js.map": "/WebFramework/static/js/main.bdd7d143.chunk.js.map",
+    "runtime-main.js": "/WebFramework/static/js/runtime-main.0882f80a.js",
+    "runtime-main.js.map": "/WebFramework/static/js/runtime-main.0882f80a.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/WebFramework/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e0eb1b11.chunk.js": "/WebFramework/static/js/2.e0eb1b11.chunk.js",
+    "static/js/2.e0eb1b11.chunk.js.map": "/WebFramework/static/js/2.e0eb1b11.chunk.js.map",
+    "index.html": "/WebFramework/index.html",
+    "precache-manifest.f603654f9a4cadf280b6370d944026ed.js": "/WebFramework/precache-manifest.f603654f9a4cadf280b6370d944026ed.js",
+    "service-worker.js": "/WebFramework/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/WebFramework/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.3728e709.chunk.css.map": "/WebFramework/static/css/main.3728e709.chunk.css.map",
+    "static/js/2.e0eb1b11.chunk.js.LICENSE.txt": "/WebFramework/static/js/2.e0eb1b11.chunk.js.LICENSE.txt",
+    "static/media/foto.jpg": "/WebFramework/static/media/foto.66834398.jpg",
+    "static/media/laundrypintar.png": "/WebFramework/static/media/laundrypintar.aa0ac4a9.png",
+    "static/media/mentorkoding.png": "/WebFramework/static/media/mentorkoding.ec43d5ff.png",
+    "static/media/rewangkerjo.png": "/WebFramework/static/media/rewangkerjo.838c69a8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5963504d.js",
+    "static/js/runtime-main.0882f80a.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.dff56244.chunk.js",
+    "static/js/2.e0eb1b11.chunk.js",
     "static/css/main.3728e709.chunk.css",
-    "static/js/main.1ca0de69.chunk.js"
+    "static/js/main.bdd7d143.chunk.js"
   ]
 }
