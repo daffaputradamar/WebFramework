@@ -21,5 +21,5 @@ jobs:
         run: |
           git config --global user.email "daffaputradamar@gmail.com"
           git config --global user.name "daffaputradamar"
-          git remote set-url origin https://0fe779d788f4ba1f514186de15074e336258892c@github.com/daffaputradamar/WebFramework.git
+          git remote set-url origin https://ee3d8d6feeb7ca5ebc8f7307b227ab1ac58d9809@github.com/daffaputradamar/WebFramework.git
           npm run deploy
