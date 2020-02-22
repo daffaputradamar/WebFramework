@@ -15,11 +15,14 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Install Packages
-        run: npm install
-      - name: Deploy to GH Pages
+      - name: Build
         run: |
-          git config --global user.email "daffaputradamar@gmail.com"
-          git config --global user.name "daffaputradamar"
-          git remote set-url origin https://ee3d8d6feeb7ca5ebc8f7307b227ab1ac58d9809@github.com/daffaputradamar/WebFramework.git
-          npm run deploy
+          npm install
+          npm run build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
