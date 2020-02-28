@@ -1,8 +1,8 @@
 {
-  "name": "webframework",
+  "name": "pertemuan-ke-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://daffaputradamar.github.io/WebFramework",
+  "homepage": "https://daffaputradamar.github.io/pertemuan-ke-2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
