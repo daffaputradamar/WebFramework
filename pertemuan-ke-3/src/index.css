@@ -1,13 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:400,500,600,700,800,900&display=swap");
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: Muli;
+  color: #707275;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #dde1e7;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.neumorphism {
+  border-radius: 20px;
+  background: #dde1e7;
+  box-shadow: 20px 20px 60px #c3d1d9, -20px -20px 60px #ffffff;
+}
+
+.neumorphism-inside {
+  border-radius: 20px;
+  background: #dde1e7;
+  box-shadow: inset 20px 20px 60px #bcbfc4, inset -20px -20px 60px #feffff;
+}
+
+.neumorphism-icon {
+  border-radius: 20px;
+  background: #dde1e7;
+  box-shadow: 10px 10px 30px #bcbfc4, -20px -20px 60px #feffff;
+}
+
+.btn-grad {
+  background-image: linear-gradient(to bottom, #00d2ff 0%, #1e90ff 100%);
+}
+.btn-grad:hover {
+  background-position: right center;
+}
+
+.btn-grad-orange {
+  background-image: linear-gradient(to bottom, #feb47b 0%, #ff7e5f 100%);
+}
+.btn-grad-orange:hover {
+  background-position: right center;
+}
+
+.btn-grad-light {
+  background-image: linear-gradient(to bottom, #85d880 0%, #3fbf9e 100%);
+}
+.btn-grad-light:hover {
+  background-position: right center;
 }
