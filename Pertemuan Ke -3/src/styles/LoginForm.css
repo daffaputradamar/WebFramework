@@ -1,0 +1,90 @@
+.vh-100 {
+  height: 100vh;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex--column {
+  flex-direction: column;
+}
+
+.flex__align-items--center {
+  align-items: center;
+}
+
+.flex__justify-content--between {
+  justify-content: space-between;
+}
+
+.flex__justify-content--center {
+  justify-content: center;
+}
+
+.flex__justify-content--stretch {
+  justify-content: stretch;
+}
+
+.card {
+  border: 1px solid #f3f3f3;
+  background-color: #fefefe;
+  width: 40%;
+}
+
+.card__body {
+  padding: 10px 30px;
+}
+
+.card__title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.form--group {
+  margin-bottom: 30px;
+}
+
+.form__label {
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  flex: 4;
+}
+
+.form__label--checkbox {
+  font-size: 1.1rem;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.form__input {
+  padding: 15px 0 15px 10px;
+  margin-right: 50px;
+  flex: 5;
+  border: #f2f2f2 solid 1px;
+  background-color: #fff;
+}
+
+.form__button {
+  width: 100%;
+}
+
+.btn {
+  border: none;
+  padding: 15px 20px;
+  font-size: 1.2rem;
+}
+
+.btn--success {
+  background-color: #27ae60;
+  color: white;
+}
+
+.btn--danger {
+  background-color: #e74c3c;
+  color: white;
+}
